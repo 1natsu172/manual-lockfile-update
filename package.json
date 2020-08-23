@@ -1,0 +1,11 @@
+{
+  "name": "manual-lockfile-update",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/1natsu172/manual-lockfile-update.git",
+  "author": "1natsu <1natsu172@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-dev-server": "3.11.0"
+  }
+}
