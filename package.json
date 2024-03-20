@@ -6,7 +6,7 @@
   "author": "1natsu <1natsu172@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "5.0.4",
     "lodash": "4.17.15"
   }
 }
